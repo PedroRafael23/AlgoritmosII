@@ -5,6 +5,8 @@ algoritmo da bolha mostrando quantas trocas e quantas comparações são
 feitas durante a ordenação usando a melhoria realizada no exercício 05.
 A mudança do algoritmo foi eficaz?
 
+22222222222222222222222
+
 *******************************************************************************/
 
 #include <stdio.h>
